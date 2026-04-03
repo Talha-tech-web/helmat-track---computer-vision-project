@@ -55,15 +55,15 @@ It is designed for real-world applications such as traffic monitoring, law enfor
 - OpenCV  
 - YOLOv8 (Ultralytics)  
 - NumPy  
-- Google Colab  
+- Google Colab
+- Vs code
 
 ---
 
-## 📸 Sample Output
+#<img width="1280" height="720" alt="vido" src="https://github.com/user-attachments/assets/bd4ceaef-b567-455a-949c-8586fbf4a26a" />
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/b8084381-72b6-4171-a1b1-c821b3597465" />
 
-(Add your output images here)
 
----
 
 ## 🔥 Future Improvements
 
@@ -72,14 +72,4 @@ It is designed for real-world applications such as traffic monitoring, law enfor
 - Integrate with CCTV/live traffic cameras
 - Add license plate recognition
 
----
 
-## 🤝 Contributing
-
-Feel free to fork this repo and contribute!
-
----
-
-## 📬 Contact
-
-If you have any suggestions or feedback, feel free to connect with me on LinkedIn.
